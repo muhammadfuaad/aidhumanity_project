@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.05" height="61.039" viewBox="0 0 61.05 61.039">
+  <g id="loader-medium" transform="translate(3.03 3.02)">
+    <path id="Path_78566" data-name="Path 78566" d="M131.352,3.156a27.5,27.5,0,1,1-24.46,30.231,27.5,27.5,0,0,1,24.46-30.231" transform="translate(-106.738 -3.001)" fill="#102558"/>
+    <path id="Path_78567" data-name="Path 78567" d="M131.352,3.156a27.5,27.5,0,1,1-24.46,30.231A27.5,27.5,0,0,1,131.352,3.156Z" transform="translate(-106.738 -3.001)" fill="none" stroke="#132655" stroke-width="6.003"/>
+    <path id="Path_78568" data-name="Path 78568" d="M106.747,42.137a27.473,27.473,0,0,0,54.941,0" transform="translate(-106.74 -14.287)" fill="#006ba3"/>
+    <path id="Path_78569" data-name="Path 78569" d="M106.747,42.137a27.473,27.473,0,0,0,54.941,0" transform="translate(-106.74 -14.287)" fill="none" stroke="#00ade9" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    <g id="Group_17340" data-name="Group 17340" transform="translate(12.19 16.647)">
+      <text id="_50" data-name="50" transform="translate(0)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="17">50</tspan></text>
+      <text id="_" data-name="%" transform="translate(22.416 1.423)" fill="#fff" font-size="11" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="11">%</tspan></text>
+    </g>
+  </g>
+</svg>

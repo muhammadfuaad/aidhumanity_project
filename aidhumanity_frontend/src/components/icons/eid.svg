@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.026" height="31.342" viewBox="0 0 31.026 31.342">
+  <g id="icon_eid-color" transform="translate(1 1)">
+    <rect id="Rectangle_2768" data-name="Rectangle 2768" width="22.155" height="6.75" transform="translate(6.87 6.177)" fill="#eed3ff"/>
+    <path id="Rectangle_2769" data-name="Rectangle 2769" d="M612.048,205.046H632.6v13.979a2.4,2.4,0,0,1-2.4,2.4H612.048v-16.38Z" transform="translate(-605.177 -192.083)" fill="#eed3ff"/>
+    <rect id="Rectangle_2770" data-name="Rectangle 2770" width="29.026" height="6.75" rx="2.061" transform="translate(0 6.177)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_2771" data-name="Rectangle 2771" d="M606.415,205.046h25.824v13.689a2.689,2.689,0,0,1-2.689,2.69H609.1a2.689,2.689,0,0,1-2.689-2.69h0V205.046Z" transform="translate(-604.814 -192.083)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_2772" data-name="Rectangle 2772" d="M616.759,191.2h.093a3.015,3.015,0,0,1,3.014,3.016v3.015h-3.107a3.016,3.016,0,0,1-3.014-3.015h0A3.016,3.016,0,0,1,616.759,191.2Z" transform="translate(-605.287 -191.199)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Rectangle_2773" data-name="Rectangle 2773" d="M623.432,197.231h-3.107v-3.016a3.016,3.016,0,0,1,3.014-3.015h.093a3.016,3.016,0,0,1,3.014,3.015h0A3.015,3.015,0,0,1,623.432,197.231Z" transform="translate(-605.711 -191.199)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.547" height="21.222" viewBox="0 0 18.547 21.222">
+  <g id="icon_stopwatch" transform="translate(0.75 0.75)">
+    <g id="Group_4211" data-name="Group 4211" transform="translate(-0.637 -0.637)">
+      <circle id="Ellipse_1778" data-name="Ellipse 1778" cx="8.49" cy="8.49" r="8.49" transform="translate(0.637 3.38)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_1320" data-name="Line 1320" x2="6.313" transform="translate(5.97 0.637)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_1321" data-name="Line 1321" y1="1.264" x2="1.44" transform="translate(15.936 5.47)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_1322" data-name="Line 1322" y2="2.382" transform="translate(9.126 0.637)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_1323" data-name="Line 1323" y2="5.044" transform="translate(9.126 8.203)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

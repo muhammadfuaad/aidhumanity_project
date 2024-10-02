@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.259" height="35.259" viewBox="0 0 35.259 35.259">
+  <g id="icon_uk-projects-color" transform="translate(1 1)">
+    <circle id="Ellipse_1815" data-name="Ellipse 1815" cx="16.629" cy="16.629" r="16.629" fill="#99c6ed"/>
+    <path id="Path_70572" data-name="Path 70572" d="M558.973,97.6a16.7,16.7,0,0,0-6.765,0v12.9h-12.9a16.737,16.737,0,0,0,0,6.765h12.9v12.9a16.739,16.739,0,0,0,6.765,0v-12.9h12.9a16.694,16.694,0,0,0,0-6.765h-12.9Z" transform="translate(-538.962 -97.256)" fill="#fd8484" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_1503" data-name="Line 1503" x1="8.368" y1="8.368" transform="translate(4.879 4.879)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_1504" data-name="Line 1504" y1="8.375" x2="8.375" transform="translate(20.012 4.872)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_1505" data-name="Line 1505" x1="8.375" y2="8.375" transform="translate(4.871 20.012)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_1506" data-name="Line 1506" x2="8.375" y2="8.375" transform="translate(20.012 20.012)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_1816" data-name="Ellipse 1816" cx="16.629" cy="16.629" r="16.629" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

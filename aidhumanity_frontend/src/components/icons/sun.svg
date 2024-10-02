@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.74" height="56.74" viewBox="0 0 56.74 56.74">
+  <g id="icon_distribution-color" transform="translate(1 1)">
+    <circle id="Ellipse_1817" data-name="Ellipse 1817" cx="9.729" cy="9.729" r="9.729" transform="translate(17.641 17.622)" fill="#ffc100" stroke="#102558" stroke-width="2"/>
+    <g id="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820" data-name="Path 4820" d="M409.764,225.842l3.911,3.97-3.911,4.03" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158" data-name="Line 158" x1="11.74" transform="translate(401.937 229.844)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-2" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-2" data-name="Path 4820" d="M362.85,233.842l-3.911-4.03,3.911-3.97" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-2" data-name="Line 158" x1="11.74" transform="translate(358.937 229.844)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-3" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-3" data-name="Path 4820" d="M382.307,206.385l3.97-3.911,4.03,3.911" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-3" data-name="Line 158" y2="11.74" transform="translate(386.309 202.472)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-4" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-4" data-name="Path 4820" d="M390.307,253.3l-4.03,3.911-3.97-3.911" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-4" data-name="Line 158" y2="11.74" transform="translate(386.309 245.472)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-5" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-5" data-name="Path 4820" d="M400.065,210.427l5.573.042.084,5.615" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-5" data-name="Line 158" x1="8.301" y2="8.301" transform="translate(397.36 210.49)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-6" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-6" data-name="Path 4820" d="M372.549,249.257l-5.615-.084-.042-5.572" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-6" data-name="Line 158" x1="8.301" y2="8.301" transform="translate(366.955 240.896)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-7" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-7" data-name="Path 4820" d="M405.722,243.6l-.042,5.572-5.615.084" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-7" data-name="Line 158" x1="8.301" y1="8.301" transform="translate(397.358 240.896)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="arrow-right-8" data-name="arrow-right" transform="translate(-358.937 -202.472)">
+      <path id="Path_4820-8" data-name="Path 4820" d="M366.892,216.084l.084-5.615,5.573-.042" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_158-8" data-name="Line 158" x1="8.301" y1="8.301" transform="translate(366.952 210.49)" fill="none" stroke="#102558" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

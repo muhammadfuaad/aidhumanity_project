@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.25" height="13.25" viewBox="0 0 20.25 13.25">
+  <g id="icon_bullet-list" transform="translate(0.5 0.5)">
+    <g id="Group_17282" data-name="Group 17282">
+      <line id="Line_2283" data-name="Line 2283" x2="13.127" transform="translate(5.873 1.363)" fill="none" stroke="#bdbdbd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_2284" data-name="Line 2284" x2="13.127" transform="translate(5.873 6.642)" fill="none" stroke="#bdbdbd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_2285" data-name="Line 2285" x2="13.127" transform="translate(5.873 12)" fill="none" stroke="#bdbdbd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_78538" data-name="Path 78538" d="M2.725,1.363A1.363,1.363,0,1,1,1.362,0,1.363,1.363,0,0,1,2.725,1.363" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

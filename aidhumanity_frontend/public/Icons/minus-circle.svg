@@ -1,0 +1,9 @@
+<svg id="icon_minus-circle" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Ellipse_1755" data-name="Ellipse 1755" fill="none" stroke="#1d1d1d" stroke-width="1.5">
+    <circle cx="11" cy="11" r="11" stroke="none"/>
+    <circle cx="11" cy="11" r="10.25" fill="none"/>
+  </g>
+  <g id="icon_minus" transform="translate(7 11)">
+    <line id="Line_1170" data-name="Line 1170" x2="8" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

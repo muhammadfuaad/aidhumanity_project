@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112.632" height="45.812" viewBox="0 0 112.632 45.812">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffce03"/>
+      <stop offset="1" stop-color="#ffe680"/>
+    </linearGradient>
+  </defs>
+  <g id="logo_100percent" transform="translate(0)">
+    <path id="Path_70540" data-name="Path 70540" d="M374.275,115.732a4.33,4.33,0,0,1-4.335-4.325v-35.6a4.335,4.335,0,0,1,8.67,0v35.6A4.33,4.33,0,0,1,374.275,115.732Z" transform="translate(-369.94 -70.822)" fill="url(#linear-gradient)"/>
+    <path id="Path_70541" data-name="Path 70541" d="M414.644,114.194A22.906,22.906,0,1,1,437.6,91.289,22.958,22.958,0,0,1,414.644,114.194Zm0-37.161a14.256,14.256,0,1,0,14.289,14.256A14.288,14.288,0,0,0,414.644,77.033Z" transform="translate(-387.048 -68.383)" fill="url(#linear-gradient)"/>
+    <path id="Path_70542" data-name="Path 70542" d="M533.254,114.194a22.906,22.906,0,1,1,22.958-22.906A22.958,22.958,0,0,1,533.254,114.194Zm0-37.161a14.256,14.256,0,1,0,14.288,14.256A14.288,14.288,0,0,0,533.254,77.033Z" transform="translate(-480.363 -68.383)" fill="url(#linear-gradient)"/>
+    <path id="Path_70543" data-name="Path 70543" d="M752.31,113.545a7.537,7.537,0,1,1,7.555-7.537A7.554,7.554,0,0,1,752.31,113.545Zm0-11.571a4.034,4.034,0,1,0,4.043,4.034A4.043,4.043,0,0,0,752.31,101.974Z" transform="translate(-664.819 -92.068)" fill="url(#linear-gradient)"/>
+    <path id="Path_70544" data-name="Path 70544" d="M834.772,202.077a7.537,7.537,0,1,1,7.555-7.537A7.555,7.555,0,0,1,834.772,202.077Zm0-11.571a4.034,4.034,0,1,0,4.043,4.034A4.043,4.043,0,0,0,834.772,190.506Z" transform="translate(-729.695 -161.762)" fill="url(#linear-gradient)"/>
+    <path id="Path_70545" data-name="Path 70545" d="M759.269,134.232a1.752,1.752,0,0,1-1.357-2.863l23.746-28.9a1.754,1.754,0,0,1,2.716,2.221l-23.746,28.9A1.755,1.755,0,0,1,759.269,134.232Z" transform="translate(-674.857 -94.714)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
